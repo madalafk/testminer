@@ -1,0 +1,2 @@
+# testminer
+testing virtual miner
